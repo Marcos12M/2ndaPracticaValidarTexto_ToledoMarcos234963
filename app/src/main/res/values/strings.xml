@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2ndaPracticaValidarTexto_ToledoMarcos234963</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password\n</string>
+    <string name="phone">Phone</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+</resources>
